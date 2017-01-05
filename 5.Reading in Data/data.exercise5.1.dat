@@ -1,4 +1,4 @@
-this line should be skipped whne reading in data
+this line should be skipped when reading in data
 "x" "" "" "" "y"
 "1" 2 -0.153571557949554 "j" FALSE 9
 "2" 0 -1.17819421724726 "g" FALSE 14
